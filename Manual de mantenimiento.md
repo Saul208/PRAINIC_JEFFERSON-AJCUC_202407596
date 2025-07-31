@@ -115,4 +115,3 @@ Si todo está en orden, el mantenimiento ha sido exitoso.
 
 **Autores:** Jefferson Saúl Ajcúc sambrano, Wagner Jacob Ajcúc Sambrano 
 **Video tutorial:** https://youtu.be/o3NxERWhqCE
-**Video tutorial:** https://youtu.be/RHYAV5vTpIM

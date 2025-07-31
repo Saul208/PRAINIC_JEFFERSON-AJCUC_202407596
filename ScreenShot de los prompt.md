@@ -13,18 +13,11 @@ Este documento describe cómo se desarrolló un manual técnico básico y un tri
 ---
 
 ## Desarrollo del Manual
-
-![alt text](image-1.png)
-![alt text](image-2.png)
-![alt text](image-3.png)
-![alt text](image-4.png)
+![alt text](image-9.png)
 
 ---
 
 ## Desarrollo del Trifoliar
-
-![alt text](image-5.png)
-![alt text](image-6.png)
 ### Parte Interior
 ![alt text](image-7.png)
 
